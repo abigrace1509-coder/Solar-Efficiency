@@ -1,0 +1,6 @@
+[
+  { "solarPower": 3250, "batterySoc": 68.2, "batteryPower": 1800, "totalDemand": 2120, "gridUsage": 0 },
+  { "solarPower": 1800, "batterySoc": 61.7, "batteryPower": 1700, "totalDemand": 2120, "gridUsage": 0 },
+  { "solarPower": 900, "batterySoc": 53.1, "batteryPower": 1500, "totalDemand": 2120, "gridUsage": 0 },
+  { "solarPower": 400, "batterySoc": 45.4, "batteryPower": 1360, "totalDemand": 2120, "gridUsage": 360 }
+]
